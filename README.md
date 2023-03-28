@@ -1,4 +1,4 @@
-# Generating an XML File by Parsing an IPPeCode Source File
+####### Generating an XML File by Parsing an IPPeCode Source File
 
 This program analyzes an IPPeCode source file and produces an output as an XML file. The program uses an XML tree structure to add each command in the source file to the output. The tree is then saved as an XML file.
 
